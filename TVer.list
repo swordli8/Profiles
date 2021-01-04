@@ -4,4 +4,4 @@ DOMAIN-SUFFIX,tver.jp,TVer
 DOMAIN-SUFFIX,tver-p.app-visor.com,TVer
 DOMAIN-SUFFIX,pmpw.ntv.co.jp,TVer
 DOMAIN-SUFFIX,brightcove.com,TVer
-# DOMAIN-KEYWORD,abematv.akamaized.net,TVer
+DOMAIN-KEYWORD,tver,TVer
