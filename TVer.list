@@ -1,5 +1,7 @@
-tver
-tver.jp
-tver-p.app-visor.com
-pmpw.ntv.co.jp
-brightcove.com
+# > TVer
+USER-AGENT,TVer*,TVer
+DOMAIN-SUFFIX,tver.jp,TVer
+DOMAIN-SUFFIX,tver-p.app-visor.com,TVer
+DOMAIN-SUFFIX,pmpw.ntv.co.jp,TVer
+DOMAIN-SUFFIX,brightcove.com,TVer
+# DOMAIN-KEYWORD,abematv.akamaized.net,TVer
