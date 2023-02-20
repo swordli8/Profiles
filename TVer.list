@@ -5,10 +5,3 @@ DOMAIN-SUFFIX,tver-p.app-visor.com,TVer
 DOMAIN-SUFFIX,pmpw.ntv.co.jp,TVer
 DOMAIN-SUFFIX,brightcove.com,TVer
 DOMAIN-KEYWORD,tver,TVer
-USER-AGENT,Abema*,Abema
-DOMAIN-SUFFIX,abema.io,Abema
-DOMAIN-SUFFIX,abema.tv,Abema
-DOMAIN-SUFFIX,ameba.jp,Abema
-DOMAIN-SUFFIX,hayabusa.io,Abema
-DOMAIN-SUFFIX,abematv.akamaized.net,Abema
-DOMAIN-KEYWORD,abema,Abema
